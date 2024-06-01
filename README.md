@@ -1,2 +1,9 @@
-# att1github
-Aula 1 - GitHub: Atividade de Introdução
+# ***Lara Gabriele***
+
+- JavaScript
+- Python
+- C++
+
+  
+![Texto alternativo para imagem](https://picsum.photos/536/354)
+
