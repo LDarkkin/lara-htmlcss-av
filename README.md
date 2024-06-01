@@ -3,6 +3,6 @@
 - JavaScript
 - Python
 - C++
-
-![Texto alternativo para imagem](https://picsum.photos/536/354) > Atividade 1: GitHub Introdução
+> Tendi foi tudo confia...
+![O quê que é isso-](https://picsum.photos/536/354)
 
